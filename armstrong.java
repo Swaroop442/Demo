@@ -12,6 +12,7 @@ public class armstrong {
 		while (temp1 != 0) {
 			length++;
 			temp1/=10;
+			
 		}
 		while (temp2 != 0) {
 			
