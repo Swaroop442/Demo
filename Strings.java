@@ -13,6 +13,6 @@ public class Strings {
 		System.out.println(a.compareTo(s.trim()));
 		System.out.println(a.contentEquals(s));
 		System.out.println(a.contentEquals(s.trim()));
-
+		System.out.println(s.equals(a));
 	}
 }
